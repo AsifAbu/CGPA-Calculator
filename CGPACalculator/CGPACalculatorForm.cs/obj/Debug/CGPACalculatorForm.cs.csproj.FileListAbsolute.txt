@@ -1,0 +1,9 @@
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\bin\Debug\CGPACalculatorForm.cs.exe.config
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\bin\Debug\CGPACalculatorForm.cs.exe
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\bin\Debug\CGPACalculatorForm.cs.pdb
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\obj\Debug\CGPACalculatorForm.cs.csprojResolveAssemblyReference.cache
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\obj\Debug\CGPACalculatorForm.cs.Form1.resources
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\obj\Debug\CGPACalculatorForm.cs.Properties.Resources.resources
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\obj\Debug\CGPACalculatorForm.cs.csproj.GenerateResource.Cache
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\obj\Debug\CGPACalculatorForm.cs.exe
+C:\Users\Asif\Desktop\CGPACalculator\CGPACalculatorForm.cs\obj\Debug\CGPACalculatorForm.cs.pdb
